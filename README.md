@@ -1,2 +1,1 @@
-# Conquer-covid
-A brief Description About Your Project:This is a dummy website developed by us as our entry for the Progate Webathon Week. Talking about our idea, we wanted to create a start-up which focusses on effective channelizing of Medicines, Doctors and Ambulances to the ones who require the same. As the pandemic has struck us hard and there is an eruption of shortage of medicines, hospital beds and oxygen cyclinders. We at Conquer Covid will as our name suggests try our level best to control the pandemic by establishing a proper network of doctors, hospitals beds , ambulances and medicines, and make the resources available to the ones who require them. Thus this was the idea of our website. Moving forward to the code part
+# Conquer-Corona
